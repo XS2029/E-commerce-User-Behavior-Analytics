@@ -39,5 +39,5 @@
 - 结果落地 MySQL，贴近真实业务场景。
 
 ## 联系方式
-- GitHub：[@yourusername](https://github.com/yourusername)
-- 邮箱：your.email@example.com
+- GitHub：[@XS2029](https://github.com/yourusername)
+- 邮箱：18800335604@163.com
